@@ -35,11 +35,11 @@
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
 
-## 🔭 I'm currently working on
+<p>## 🔭 I'm currently working on</p>
 
-- Microservices Testing Automation Framework
-- Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically.
-- Postman Newman Automated Test
+- Microservices Testing Automation Framework<br/>
+- Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically.<br/>
+- Postman Newman Automated Test<br/>
 <!--<p align="center">
 <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/postmanproject.jpg" alt="Vaishnavi | Whatsapp" width="500px"/> </p>-->
 
@@ -59,9 +59,9 @@ assignments.
 renewal projects and was able to resolve BAU tickets and perform root cause
 analysis quickly.
 
-## 💻 Framework WalkThrough
+<!--## 💻 Framework WalkThrough
 
-[![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/thumbnail.jpg)]<!--(https://youtu.be/BCaqX6XCKhw)-->
+[![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)-->
 
 ## 💻 My Projects
 
