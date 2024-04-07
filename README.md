@@ -19,8 +19,8 @@
   </a>
   <a href="https://wa.link/8nquvx">
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Vaishnavi | Whatsapp" width="21px"/>
-  </a>
-</p>-->
+  </a>-->
+</p>
   
 <!--## 🥇 Certifications
 <p align="center">
