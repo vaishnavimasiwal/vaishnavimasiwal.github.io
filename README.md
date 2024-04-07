@@ -35,7 +35,7 @@
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
 
-<p>## 🔭 I'm currently working on</p>
+## 🔭 I'm currently working on
 
 - Microservices Testing Automation Framework<br/>
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically.<br/>
