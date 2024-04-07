@@ -1,28 +1,28 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavimasiwal" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/" alt="My banner">
+    <img src="images\Banner1.png" alt="My banner">
   </a>
 </p>
 
 <h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vaishnavimasiwal" target="_blank" rel="noreferrer">Vaishnavi Masiwal</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">I'm a Software Development Engineer 💻, seeking an entry-level Software Development Engineer in Test (SDET) position.</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavimasiwal/">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Vaishnavi Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Vaishnavi Masiwal | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
+  <!--<a href="https://instagram.com/tech_with_jatin">
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Vaishnavi | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Vaishnavi | Whatsapp" width="21px"/>
   </a>
-</p>
+</p>-->
   
-## 🥇 Certifications
+<!--## 🥇 Certifications
 <p align="center">
   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ISTQB.png" alt="Vaishnavi | ISTQB" width="100 px"/>
   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-cp.png" alt="Vaishnavi | AWS-CP" width="100 px"/>
@@ -31,7 +31,7 @@
    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ocpjp.png" alt="Vaishnavi | AWS-SA" width="100 px"/>
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/safe.png" alt="Vaishnavi | AWS-SA" width="100 px"/>
      <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/csm.webp" alt="Vaishnavi | AWS-SA" width="100 px"/>
-</p>
+</p>-->
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
 
@@ -40,8 +40,8 @@
 - Microservices Testing Automation Framework
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically.
 - Postman Newman Automated Test
-<p align="center">    
-<img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/postmanproject.jpg" alt="Vaishnavi | Whatsapp" width="500px"/> </p>
+<!--<p align="center">
+<img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/postmanproject.jpg" alt="Vaishnavi | Whatsapp" width="500px"/> </p>-->
 
 ## 🌱 I'm currently learning
 
@@ -49,29 +49,27 @@
 
 ## 🥇 Achievements
 
--Implemented thorough manual testing strategies for the application, ensuring
-seamless user experience and functionality across various devices which gave
-<b>20% improvement in overall software stability and performance</b>
+-Worked as an SME, received Gold team award and impromptu award for
+demonstrating values and delivering quality results as an integral part of a team.
 
--Guided and trained 5 Junior QA team members on test automation best practices,
-resulting in a <b>40% decrease in test execution time and a 25% increase in test
-coverage </b>
+-Actively mentored junior implementation analysts and allocated team
+assignments.
 
--Engineered automation scripts using Selenium and Java to increase testing
-efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
-in test coverage</b>
+-Completed successful implementation projects with high quality. Owned 20+
+renewal projects and was able to resolve BAU tickets and perform root cause
+analysis quickly.
 
 ## 💻 Framework WalkThrough
 
-[![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
+[![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/thumbnail.jpg)]<!--(https://youtu.be/BCaqX6XCKhw)-->
 
 ## 💻 My Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin99&repo=AutomationFramework)](https://github.com/jatin99/AutomationFramework)
 
-[Automated Regression Testing Framework Java](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
+[Automated Regression Testing Framework Java](https://github.com/vaishnavimasiwal): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
 
-[Automated Regression Testing Framework Python](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
+[Automated Regression Testing Framework Python](https://github.com/vaishnavimasiwal): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
 
 ## 💼 Technical Skills
 
@@ -90,25 +88,24 @@ in test coverage</b>
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
-[![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=jatin99)](https://github.com/jatin99)
+[![Vaishnavi's github stats](https://github-readme-stats.vercel.app/api?username=jatin99)](https://github.com/jatin99)-->
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:vaishnavimasiwal@gmail.com">vaishnavimasiwal@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/vaishnavimasiwal">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavimasiwal/">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Vaishnavi Shharma | LinkedIn" width="21px"/>
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Vaishnavi SMasiwal | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
+  <!--<a href="https://instagram.com/tech_with_jatin">
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Vaishnavi | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Vaishnavi | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Vaishnavi | Whatsapp" width="21px"/>-->
   </a>
 </p>
-
 
 <p align="center">Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.</p>
